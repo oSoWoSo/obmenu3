@@ -1,5 +1,7 @@
 Enhanced openbox menu editor with icon support
 
+![screenshot](https://github.com/zen0bit/obmenu3/blob/main/1.png "")
+
 From original project:
 https://sourceforge.net/projects/obmenu3/
 
